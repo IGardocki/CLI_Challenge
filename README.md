@@ -18,4 +18,4 @@ _For mentors: Pair with your mentee to help them clone this repo. Once it is clo
 
 - Navigate out to the startHere directory.
 - Change directories into that directory.
-- list out the files in that directory. Hint: There may be a README that will help you out!
+- list out the files in that directory. Hint: View the README for further instructions!
