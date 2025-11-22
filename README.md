@@ -2,7 +2,7 @@
 
 ## Welcome to the CLI Challenge, where you can demonstrate your knowledge of basic command line usage.
 
-_For mentors: Pair with your mentee to help them clone this repo. Once it is cloned, all except one of the exercises should be completed in the terminal (not using a code editor like VSCode)_
+_For mentors: Pair with your mentee to help them clone this repo. Once it is cloned, all except exercise 4 should be completed in the terminal (not using a code editor like VSCode)_
 
 1. Make a new directory. Call it my_new_dir.
 
