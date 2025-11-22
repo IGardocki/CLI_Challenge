@@ -2,6 +2,11 @@
 INPUT_FILE="orca.txt"
 OUTPUT_FILE="decodedOrca.txt"
 
+if [ "$SQ_CC" != "Adrian" ]; then
+    echo "Whoa, that's not the Sq CC! Please set the SQ_CC equal to Adrian (for this command only) to run this script!"
+    exit 1
+fi
+
 if [ ! -f "$INPUT_FILE" ]; then
     echo "Error: Input file '$INPUT_FILE' not found."
     exit 1
